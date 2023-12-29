@@ -1,8 +1,8 @@
 # ASP
 
-This is the official repository of ASP[Attribution-based Scanline Perturbation Attack On 3D Detectors Of LiDAR Point Clouds].
+This is the official repository of ASP[Attribution-based Scanline Perturbation Attack On 3D Detectors Of LiDAR Point Clouds]. The repository is based on [OccAM](https://github.com/dschinagl/occam).
 
-The origin point cloud and perturbated sample is shown in the following figures
+The origin point cloud and perturbated sample is shown in the following figures.
 <center class="half">
 <img src="figs/before_corrupt.png" width=150/>
 <img src="figs/after_corrupt.png" width=150/>
