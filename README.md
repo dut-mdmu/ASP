@@ -4,8 +4,7 @@ This is the official repository of ASP[Attribution-based Scanline Perturbation A
 
 The origin point cloud and perturbated sample is shown in the following figures
 <center class="half">
-<img src="figs/before_corrupt.png" width=150/>
-<img src="figs/after_corrupt.png" width=150/>
+<img src="figs/before_corrupt.png" width=150/><img src="figs/after_corrupt.png" width=150/>
 </center>
 
 ##  Requirements
