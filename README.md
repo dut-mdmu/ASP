@@ -24,13 +24,17 @@ The origin point cloud and perturbated sample is shown in the following figures.
 <code>Python demo.py </code>
 
 ## Citation
-<code>@INPROCEEDINGS{10447340,
+```
+@INPROCEEDINGS{ASP-Attack2024,
+  title={Attribution-Based Scanline Perturbation Attack on 3d Detectors of Lidar Point Clouds},
   author={Yu, Ziyang and Yang, Ting and Chang, Qiong and Liu, Yu and Wang, Weimin},
   booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title={Attribution-Based Scanline Perturbation Attack on 3d Detectors of Lidar Point Clouds}, 
   year={2024},
   pages={4570-4574},
-  doi={10.1109/ICASSP48485.2024.10447340}}</code>
+  doi={10.1109/ICASSP48485.2024.10447340}
+}
+```
+
 
 
 
